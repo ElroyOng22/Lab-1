@@ -1,1 +1,1 @@
-print ("ET037 - DevOps")
+print ("ET037 - DevOps for AIoT")
